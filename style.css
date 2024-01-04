@@ -8,5 +8,4 @@ html {background: radial-gradient(farthest-corner at right,#b7b7b7b7,#44003d);
          border-radius: 50px;}
 
 @media screen and (min-height: 1000px){
-  html {height: 400%;}
-}
+  html {height: 400%;}}
